@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center">
         {/* Logo */}
         <div className="text-2xl font-extrabold text-[#6B4F31]">
-          <Link to="/">RayWatchStore</Link>
+          <Link to="/">OlaWatchStore</Link>
         </div>
 
         {/* Desktop Menu */}

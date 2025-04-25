@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#F9F7F1] text-[#333333] py-12">
       <div className="max-w-7xl mx-auto text-center">
-        <p className="text-lg text-[#6B4F31]">&copy; 2025 RayWatchStore. All rights reserved.</p>
+        <p className="text-lg text-[#6B4F31]">&copy; 2025 OlaWatchStore. All rights reserved.</p>
         <div className="mt-6 flex justify-center gap-6 text-2xl">
           <a href="https://www.facebook.com/profile.php?id=61558139240477&ref=ig_profile_ac" className="text-[#3B5998] hover:text-[#6B4F31] transition-colors">
             <FaFacebook />

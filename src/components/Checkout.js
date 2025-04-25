@@ -50,7 +50,7 @@ const Checkout = () => {
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   className="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-500"
-                  placeholder="Ray Watch"
+                  placeholder="Ola Watch"
                   required
                 />
               </div>
@@ -61,7 +61,7 @@ const Checkout = () => {
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   className="w-full mt-1 p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-500"
-                  placeholder="raywatchstore@example.com"
+                  placeholder="olawatchstore@example.com"
                   required
                 />
               </div>
